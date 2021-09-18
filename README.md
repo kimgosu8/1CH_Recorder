@@ -1,4 +1,4 @@
-1CH DVR
+1CH Recorder
 ======
 
 * <h2>HW Environment</h2>  
