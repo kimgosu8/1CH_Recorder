@@ -1,4 +1,8 @@
 1CH Recorder
+
+This code is a sample DVR example (own filesystem) made a long time ago. This is a DVR example made only with SW like FFMPEG so that ordinary people such as PCs, camcorders, and graphics cards can follow it without HW codecs at the time.
+
+
 ======
 
 * <h2>HW Environment</h2>  
