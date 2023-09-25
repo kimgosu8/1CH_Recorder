@@ -15,14 +15,14 @@ I hope it will be helpful to students studying file system and video.
 &nbsp; &nbsp; &nbsp; &nbsp; 1. Private FileSystem
 <br><br>
 * <h2> Private File System</h2>
-&nbsp; &nbsp; &nbsp; &nbsp; [1. Structure of Storage File System](https://capturetouch.tistory.com/entry/파일-시스템)  
-&nbsp; &nbsp; &nbsp; &nbsp; [2. Structure of LVG](https://capturetouch.tistory.com/entry/파일-시스템-2)  
-&nbsp; &nbsp; &nbsp; &nbsp; [3. LVG Writing](https://capturetouch.tistory.com/entry/파일-시스템-3)  
-&nbsp; &nbsp; &nbsp; &nbsp; [4. LVG Linked List](https://capturetouch.tistory.com/entry/파일-시스템-4)  
-&nbsp; &nbsp; &nbsp; &nbsp; [5. Structure of Image](https://capturetouch.tistory.com/entry/파일-시스템-5)  
-&nbsp; &nbsp; &nbsp; &nbsp; [6. Image Arrangement in Record Data](https://capturetouch.tistory.com/entry/파일-시스템-6)  
-&nbsp; &nbsp; &nbsp; &nbsp; [7. Image Detail packet](https://capturetouch.tistory.com/entry/파일-시스템-7)  
-&nbsp; &nbsp; &nbsp; &nbsp; [8. Summarize](https://capturetouch.tistory.com/entry/파일-시스템-상세-내용-정리)  
+1. Structure of Storage File System
+2. Structure of LVG
+3. LVG Writing
+4. LVG Linked List
+5. Structure of Image
+6. Image Arrangement in Record Data
+7. Image Detail packet
+8. Summarize
 
 ![](https://blog.kakaocdn.net/dn/c2ls29/btrb6SYaZWu/MjPfDajshHvK8hfK0lid20/img.png)
 <br>
